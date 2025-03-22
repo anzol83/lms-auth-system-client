@@ -38,7 +38,7 @@ const SignupForm = (props) => {
     })
     stopLoading()
 
-    // Error Hanlding
+    // Error Handling
     if(result.status === "error"){
       return toast.error(result.message)
     }
