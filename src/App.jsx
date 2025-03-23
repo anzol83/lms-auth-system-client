@@ -11,7 +11,7 @@ import StudentsBooksPage from './pages/Student/StudentBooksPage';
 import BookDetailsPage from './pages/Student/BookDetailsPage';
 import StudentBorrowPage from './pages/Student/StudentBorrowHistory';
 import StudentPrivateRoute from './components/StudentPrivateRoute';
-import AdminLayout from './layouts/Adminlayout';
+import AdminLayout from './layouts/AdminLayout';
 
 function App() {
   return (
